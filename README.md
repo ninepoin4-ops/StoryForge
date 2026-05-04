@@ -2,7 +2,7 @@
 
 
 AI 短篇小说工坊 — 选定作家风格，生成大纲、创作正文、三轮审查、一键导出。
-<img width="400" alt="局部截取_20260504_133017" src="https://github.com/user-attachments/assets/6e6cf710-4d9b-489f-b355-c9bb8cd0e0db" />
+<img width="600" alt="局部截取_20260504_133017" src="https://github.com/user-attachments/assets/6e6cf710-4d9b-489f-b355-c9bb8cd0e0db" />
 
 ## 技术栈
 
