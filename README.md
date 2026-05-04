@@ -1,7 +1,8 @@
 # StoryForge
-<img width="825" height="845" alt="局部截取_20260504_133017" src="https://github.com/user-attachments/assets/2188eca8-650d-4859-a704-00cf3d2cccba" />
+
 
 AI 短篇小说工坊 — 选定作家风格，生成大纲、创作正文、三轮审查、一键导出。
+<img width="825" height="845" alt="局部截取_20260504_133017" src="https://github.com/user-attachments/assets/6e6cf710-4d9b-489f-b355-c9bb8cd0e0db" />
 
 ## 技术栈
 
