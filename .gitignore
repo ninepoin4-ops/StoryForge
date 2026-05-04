@@ -1,0 +1,32 @@
+# API keys & sensitive config
+data/config.json
+data/storyforge.db
+data/exports/
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Node
+node_modules/
+frontend/dist/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temp / debug files
+*.tmp
+_check_*
+_fix_*
+启动.bat
+狗.txt
